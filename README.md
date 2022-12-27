@@ -2,6 +2,9 @@
 Hi , I am Md Saif Ur Rahman, MERN STACK developer.<br>having sound experience in html5 , css3 , javascript , ECMA script , <br>React Js, Redux, React Bootstrap, Tailwind CSS, Mongo Db, Mongoose, <br>Nodejs , express js.<br>Currently working on affiliate marking app.<br>
 
 
+connect with me:  saifwork2417@gmail.com
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/md-saif-ur-rahman-456b12256) 
 
