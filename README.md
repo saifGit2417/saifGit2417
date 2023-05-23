@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Md Saif Ur Rahman , a MERN Full Stack Developer with a passion for building modern and scalable web applications. I specialize in developing full-stack solutions using MongoDB, Express.js, React.js, and Node.js (MERN) stack. With [Number] years of experience in web development, I have honed my skills in creating robust and user-friendly web applications.
+Hi there! I'm Md Saif Ur Rahman , a MERN Full Stack Developer with a passion for building modern and scalable web applications. I specialize in developing full-stack solutions using MongoDB, Express.js, React.js, and Node.js (MERN) stack. With 2+ years of experience in web development, I have honed my skills in creating robust and user-friendly web applications.
 
 Throughout my career, I have worked on a variety of projects, ranging from small-scale applications to large enterprise-level systems. I am comfortable working with both front-end and back-end technologies, and I have experience in implementing complex business logic, designing user interfaces, and integrating third-party APIs.
 
